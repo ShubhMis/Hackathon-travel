@@ -1,5 +1,5 @@
-# hackathon_travel
-# 🌍 Hackathon Travel Planner
+Microsoft Hackathon
+# 🌍  Travel Planner
 
 An AI-powered travel planning platform built for a hackathon, combining a smart backend with an interactive frontend. This project helps users generate personalized itineraries and explore new destinations with ease.
 
